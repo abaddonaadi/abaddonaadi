@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Pearl Scripting
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Reach Me on adi.bhanda@gmail.com
 
 <!---
 abaddonaadi/abaddonaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
